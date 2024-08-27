@@ -1,2 +1,3 @@
 # Functional-Safety-FuSa-ISO-26262
 Functional Safety (FuSa) – ISO 26262
+Functional Safety (FuSa) is an integral part of the product development process in any Automotive Electrical and Electronic system, to ensure the safe and reliable operation of the system. Therefore, FuSa is about adopting a systematic approach to identify, assess, and devise ways to mitigate the risk/potential hazards that may arise. In other words, should something fail, we want it to fail predictably.For automotive applications, the “ISO 26262 - Road vehicles -Functional safety” standard serves as the directive based on which the Functional safety development process is to be based.
